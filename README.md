@@ -1,5 +1,8 @@
 # LannisterPay
 
+## Deployment
+
+API is being deployed on digital ocean, check this url https://lannisterpay-chidi-okiff.ondigitalocean.app/
 ## About
 
 Implement a transaction payment splitting service (TPSS). The service is meant to calculate the amount due to one or more split payment "entities" as well as the amount left after all splits have been computed.
@@ -95,9 +98,9 @@ The order of precedence for the `SplitType` is:
 
 To test on your local machine
 
-- clone the repository. Run `git clone https://github.com/Jude-adesulu/LannisterPay.git`
+- clone the repository. Run `git clone https://github.com/Chidieze/lannisterpay-chidi`
 - CD into the directory
-- open your terminal and run `npm install`
+- open your terminal and run `npm i`
 
 ### Run the app
 
